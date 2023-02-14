@@ -1,0 +1,39 @@
+body {
+    background-color: beige;
+}
+.header {
+    padding: 20px 120px;
+}
+
+
+.header img {
+    
+    width: 200px;
+    padding-left: 55px;
+}
+
+.header p {
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 125px;
+}
+
+
+
+.header li {
+    display: inline-block;
+    padding-right:  12px;
+    padding-bottom: 12px;
+}
+
+.status {
+    background-color: rgb(92, 63, 21); width: 300px;
+}
+
+.status h4 {
+    background-color: rgb(92, 63, 21); width: 300px;
+}
+
+.status ul {
+    background-color: rgb(30, 184, 132);
+}
