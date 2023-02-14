@@ -1,0 +1,11 @@
+.header img {
+    width: 200px;
+}
+
+.status {
+    background-color: rgb(92, 63, 21); width: 300px;
+}
+
+.status ul {
+    background-color: rgb(30, 184, 132);
+}
