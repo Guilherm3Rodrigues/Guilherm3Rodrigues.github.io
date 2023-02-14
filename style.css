@@ -7,19 +7,23 @@ body {
 
 
 .header img {
-    display: inline-block;
+    
     width: 200px;
     padding-left: 55px;
 }
 
 .header p {
-    display: inline-block;
+    
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-left: 0px;
+    padding-left: 125px;
 }
 
-.header ul {
+
+
+.header li {
     display: inline-block;
+    padding-right:  12px;
+    padding-bottom: 12px;
 }
 
 .status {
