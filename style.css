@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(235, 235, 200);
+    background: url(https://img.freepik.com/vetores-gratis/vetor-de-fundo-de-padrao-geometrico-branco-e-dourado_53876-140726.jpg?w=1480&t=st=1676517318~exp=1676517918~hmac=666390b4e22068106b3e347337a281a315ced040c0679c9e781f733a4057d7ca);
 }
 .header {
     padding: 20px 120px;
@@ -13,30 +13,89 @@ body {
 }
 
 .header p {
-    
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    z-index: 1;
+    font-family: 'Josefin Sans', sans-serif;
     padding-left: 125px;
+    
+}
+
+
+
+#quem {
+    text-align:center;
+    padding: 65px;
+    position: relative;
+    
+    
+    
 }
 
 .header h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Julee', cursive;
+
 }
 
 .header li {
-    display: inline-block;
-    padding-right:  12px;
-    padding-bottom: 12px;
+    z-index: 2;
+    
+    padding-right:  25px;
+    padding-bottom: 10px;
+    
+    
 }
 
-.status {
-    background-color: rgb(92, 63, 21); width: 300px;
+.header div {
+    padding-left: 0px;
+    margin-left: -130px;
+    
+    width: 1500px;
+    height: 350px;
 }
+
+
+
+.indice ul {
+    text-align: left;
+    
+    padding-top: 10px;
+    
+    background-color: black;
+    opacity: 0.8;
+
+    width: 500px;
+    padding: 10px 30px;
+
+    
+    
+}
+
+.indice img {
+    overflow: auto;
+}
+
+
+
 
 .status h4 {
-    background-color: rgb(92, 63, 21); width: 300px;
+    background-color: black; width: 300px;
+    padding: 20px 0;
+    opacity: 0.7;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Josefin Sans', sans-serif;
+    position: relative;
+    top: 40px;
+    left: 5px;
+
+    
 }
 
 .status ul {
     background-color: rgb(30, 184, 132);
     font-size: 22px;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 30px;
+    width: 500px;
 }
