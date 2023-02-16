@@ -42,6 +42,10 @@ body {
     padding-right:  25px;
     padding-bottom: 10px;
     
+    font-family: 'Josefin Sans', sans-serif;
+    
+    
+    
     
 }
 
@@ -53,9 +57,20 @@ body {
     height: 350px;
 }
 
+.indice p {
+    position: relative;
+    right: 50px;
+    padding-left: 30px;
+    
+
+}
+
 
 
 .indice ul {
+    position: relative;
+    
+    
     text-align: left;
     
     padding-top: 10px;
@@ -71,7 +86,9 @@ body {
 }
 
 .indice img {
-    overflow: auto;
+    position: relative;
+    bottom: 10px;
+    float: left;
 }
 
 
@@ -99,3 +116,13 @@ body {
     padding: 30px;
     width: 500px;
 }
+
+#Minha-foto-criança p {
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+#Minha-foto-criança a {
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
