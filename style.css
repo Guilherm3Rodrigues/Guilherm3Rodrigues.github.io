@@ -1,6 +1,25 @@
 body {
     background: url(https://img.freepik.com/vetores-gratis/vetor-de-fundo-de-padrao-geometrico-branco-e-dourado_53876-140726.jpg?w=1480&t=st=1676517318~exp=1676517918~hmac=666390b4e22068106b3e347337a281a315ced040c0679c9e781f733a4057d7ca);
+    margin-top: 0;
 }
+
+.header-faixa-lateral p {
+    text-align: right;
+    background-color: black;
+    margin-left: 1400px;
+    margin-right: 0;
+    margin-top: 0;
+       
+    padding-right: 150px;
+    padding-top: 1050px;
+    
+    color: transparent;
+    opacity: 0.8;
+    position: absolute;
+    z-index: 1;
+}
+
+
 .header {
     padding: 20px 120px;
 }
@@ -14,7 +33,7 @@ body {
 
 .header p {
 
-    z-index: 1;
+    z-index: 2;
     font-family: 'Josefin Sans', sans-serif;
     padding-left: 125px;
     
@@ -37,7 +56,7 @@ body {
 }
 
 .header li {
-    z-index: 2;
+    z-index: 3;
     
     padding-right:  25px;
     padding-bottom: 10px;
