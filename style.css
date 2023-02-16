@@ -48,6 +48,7 @@ body {
     
     
     
+    
 }
 
 .header h1 {
@@ -81,7 +82,12 @@ body {
     right: 50px;
     padding-left: 30px;
     
+    
 
+}
+
+.indice a {
+    color: white;
 }
 
 
