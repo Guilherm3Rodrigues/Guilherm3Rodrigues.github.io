@@ -1,21 +1,19 @@
 body {
-    background: url(https://img.freepik.com/vetores-gratis/vetor-de-fundo-de-padrao-geometrico-branco-e-dourado_53876-140726.jpg?w=1480&t=st=1676517318~exp=1676517918~hmac=666390b4e22068106b3e347337a281a315ced040c0679c9e781f733a4057d7ca);
+    background: url(https://wallsev.com/wp-content/uploads/2014/01/Simple_Wallpaper_by_maniaco.jpg);
     margin-top: 0;
 }
 
 .header-faixa-lateral p {
-    text-align: right;
     background-color: black;
-    margin-left: 1400px;
-    margin-right: 0;
-    margin-top: 0;
-       
-    padding-right: 100px;
-    padding-top: 1200px;
-    
-    color: transparent;
+    padding-right: 8%;
+    height: 100%;
+    border: 1px solid black;
+    width: 10px;
     opacity: 0.8;
-    position: absolute;
+    position: fixed;
+    right: 0;
+    margin-top: 0;
+    
     z-index: 1;
 }
 
@@ -26,31 +24,23 @@ body {
 
 
 .header img {
-
 padding: 10px;
     width: 200px;
     padding-left: 55px;
     background-color: aliceblue;
     opacity: 0.9;
-    
-    
-    
 }
 
 
 .header p {
-
     z-index: 2;
     font-family: 'Josefin Sans', sans-serif;
-    padding-left: 125px;
-    
 }
 
 #quem {
-    text-align:center;
-    padding: 65px;
-    position: relative;
-    bottom: 120px;
+    text-align:left;
+    padding-left: 30%;
+    width: 40%;
 }
 
 .header h1 {
@@ -60,18 +50,14 @@ padding: 10px;
 
 .header li {
     z-index: 3;
-    
     padding-right:  25px;
     padding-bottom: 10px;
-    
     font-family: 'Josefin Sans', sans-serif;
 }
 
 .header div {
     padding-left: 0px;
     margin-left: -130px;
-    
-    width: 1500px;
     height: 350px;
 }
 
@@ -79,8 +65,6 @@ padding: 10px;
     position: relative;
     right: 50px;
     padding-left: 30px;
-    
-    
 }
 
 .indice a {
@@ -92,29 +76,18 @@ padding: 10px;
 .indice ul {
     position: relative;
     top: 300px;
-
     text-align: left;
     padding-top: 10px;
     background-color: black;
     opacity: 0.8;
-
     width: 500px;
     padding: 10px 30px;
 }
 
 .indice img {
     position: relative;
-    bottom: 10px;
     float: left;
 }
-
-
-
-.status {
-    position: relative;
-    top: 200px;
-}
-
 
 .status h4 {
     background-color: black; width: 300px;
@@ -139,12 +112,10 @@ padding: 10px;
 
 #Minha-foto-criança p {
     font-family: 'Josefin Sans', sans-serif;
-    position: relative;
-    top: 290px;
-
+    padding-top: 3%;
 }
+
 #Minha-foto-criança a {
     font-family: 'Josefin Sans', sans-serif;
-
 }
 
