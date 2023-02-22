@@ -1,4 +1,4 @@
-<h2 align="left">Eai 👋! Meu nome é Guilherme Rodrigues!
+<h2 align="left">Eai 👋! Meu nome é Guilherme Rodrigues, sou de Minas Gerais, Brasil.
 
 ###
 
